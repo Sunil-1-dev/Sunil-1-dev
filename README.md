@@ -26,7 +26,7 @@ I believe the best way to learn is to **build, break, fix, and build again.** ğŸ
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c++,js,ts,sql" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,sql" />
 </p>
 
 ### Web Development
