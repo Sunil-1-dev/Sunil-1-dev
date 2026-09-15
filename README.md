@@ -26,7 +26,7 @@ I believe the best way to learn is to **build, break, fix, and build again.** �
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,sql" />
+  <img src="https://skillicons.dev/icons?i=python,c++,js,ts,sql" />
 </p>
 
 ### Web Development
@@ -47,30 +47,7 @@ I believe the best way to learn is to **build, break, fix, and build again.** �
   <img src="https://skillicons.dev/icons?i=python,opencv" />
 </p>
 
-## 📚 Currently Learning
 
-```text
-AI / Machine Learning
-        ↓
-Python & DSA
-        ↓
-SQL & Database Design
-        ↓
-Backend Development
-        ↓
-Building Real-World Projects 🚀
-```
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
 
 ## 🤝 Let's Connect
 
